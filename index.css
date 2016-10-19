@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container1 {
+  background-color: black;
+}
+
+.tophalf {
+  background-color: black;
+  height: 90vh;
+  padding: 0;
+  margin: 0 auto;
+  width: 627px;
+  position: relative;
+}
+
+h1 {
+  margin: 50px 0 50px 0;
+  color: #AF5DC2;
+  font-size: 36px;
+  display: inline-block;
+  font-family: Helvetica, sans-serif;;
+}
+
+h2 {
+  color: white;
+  position: center;~
+  width: 470px absolute;
+  font-size: 47px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  line-height: 1.25;
+  font-family: Helvetica, sans-serif;;
+}
+
+span.button {
+  height: 63px;
+  color: whitesmoke;
+  font-size: 25px;
+  padding-top: 30px;
+}
+
+input[type="text"] {
+  width: 380px;
+  border-radius: 5px;
+  float: left;
+  height: 64px;
+  margin-right: 20px;
+  font-size: 20px;
+  margin-top: 20px;
+  padding-left: 20px;
+  border-style: none;
+}
+button[type="button"] {
+  width: 193px;
+  height: 67px;
+  background-color: #AF5DC2;
+  float: left;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-size: 20px;
+  border-style: none;
+  margin-top: 20px;
+
+
+}
+
+button[type="button"]:hover {
+  width: 193px;
+  height: 67px;
+  background-color: #8C65CC;
+  float: left;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-size: 20px;
+  border-style: none;
+  margin-top: 20px;
+
+}
+
+.container2{
+  height: 90vh;
+  padding: 0 auto;
+  margin: 0 auto;
+  width: 740px;
+}
+.instructors {
+
+}
+
+.Upcoming {
+margin: 40px;
+padding-top: 10px;
+}
+
+.instructors li{
+  list-style: none;
+  width: 200px;
+  height: 250px;
+  float: left;
+  margin-right: 23px;
+  color: #9c9c9c;
+  font-size: 18px;
+}
+
+strong {
+  display: block;
+  color: black;
+  padding-bottom: 5px;
+}
+
+.subhead {
+  border: 2px solid black;
+  width: 621px;
+  display: inline-block;
+}
+h3 {
+  text-align: left;
+}
